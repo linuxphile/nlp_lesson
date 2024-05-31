@@ -1,0 +1,10 @@
+We will learn about processing language using spacy. 
+We will learn about sentences. 
+We will learn about tokens. 
+We will learn about people, like Professor Daniel McCarthy. 
+We will learn about places, like Washington D.C.
+We will learning about proper nouns like Strayer University. 
+We will learn about pre-processing and the removal of stop-words. 
+We will learn about lemmatization. 
+We will learn about parts of speech. 
+Mr. McCarthy likes diet Dr. Pepper. 
